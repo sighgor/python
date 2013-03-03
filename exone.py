@@ -1,3 +1,4 @@
+#added smth
 import string
 
 def both_ends(s):
