@@ -1,4 +1,4 @@
-#added smth
+#added smth and more more more
 import string
 
 def both_ends(s):
